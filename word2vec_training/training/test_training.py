@@ -1,0 +1,3 @@
+import os
+#os.system('python3 change_format_w2v.py /media/vivek/vivek/ML_Sep_2017/WordEmbeddingModels/Word2Vec/english/english_wiki8_w2v_hs_0_iter_5_min_count_3_negative_30_sg_1_size_400_window_5_workers_16_02_Aug_18.vec')
+os.system('python3 change_format_w2v.py /media/vivek/vivek/ML_Sep_2017/conversational_classifier/CORRECTION/CORRECTION_STATIC/embedding/en/english_wiki8_w2v_line_sg_hs_0_ns_10_w_5_v_400_i_5_07_june_18.vec')

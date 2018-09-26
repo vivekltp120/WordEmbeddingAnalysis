@@ -1,0 +1,100 @@
+Input word                play
+
+                       Word       Cosine distance
+                 ---------------------------------
+                       playing		0.812299
+                         plays		0.798750
+                          beat		0.794794
+                        played		0.794366
+                       dominos		0.761641
+                    goalkeeper		0.760868
+                       shuffle		0.759669
+                     performer		0.759498
+                       hitters		0.756761
+                       compose		0.754958
+                       comedic		0.754160
+                         smash		0.751873
+                       tackles		0.751257
+                         chant		0.751168
+                      mediocre		0.750444
+                         rodeo		0.749974
+                         joker		0.747334
+                     listening		0.747208
+                         paced		0.747068
+                     runequest		0.746829
+
+Input word                cricket
+
+                       Word       Cosine distance
+                 ---------------------------------
+                        soccer		0.867372
+                     floorball		0.862913
+                      handball		0.862325
+                         rugby		0.860924
+                      lacrosse		0.857700
+                         bandy		0.852800
+                          golf		0.851392
+                           nhl		0.833421
+                        boxing		0.828809
+                     badminton		0.828039
+                    volleyball		0.827953
+                        rowing		0.825084
+                      softball		0.824845
+                       matches		0.824679
+                       varsity		0.822261
+                           nba		0.821804
+                    tournament		0.820977
+                          fifa		0.820096
+                           mlb		0.819927
+                      brisbane		0.816813
+
+Input word                sing
+
+                       Word       Cosine distance
+                 ---------------------------------
+                         laugh		0.905445
+                        chorus		0.895139
+                           dad		0.894900
+                          hear		0.894787
+                         sings		0.889206
+                       goodbye		0.883878
+                          dear		0.882691
+                      remember		0.882402
+                       delight		0.881841
+                         crazy		0.880805
+                           cry		0.877622
+                           hey		0.877435
+                      stranger		0.877001
+                        damned		0.875760
+                          thee		0.875066
+                          pray		0.874195
+                          fuck		0.873952
+                      somebody		0.873681
+                         shout		0.873656
+                         bitch		0.871992
+
+Input word                india
+
+                       Word       Cosine distance
+                 ---------------------------------
+                      pakistan		0.810219
+                         lanka		0.792495
+                         nepal		0.789372
+                    bangladesh		0.788598
+                           sri		0.788068
+                         tibet		0.785329
+                       myanmar		0.784732
+                     indonesia		0.784506
+                        punjab		0.782750
+                        taiwan		0.774988
+                         china		0.774941
+                      mongolia		0.773313
+                         burma		0.772320
+                      malaysia		0.771448
+                      maldives		0.770004
+                        kerala		0.768727
+                    tajikistan		0.768471
+                        malaya		0.764763
+                         yemen		0.761239
+                      shanghai		0.760960
+

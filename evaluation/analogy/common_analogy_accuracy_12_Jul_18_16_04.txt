@@ -1,0 +1,7 @@
+
+Accuracy for Model - german_w2v_cbow_500_02_mar_18.vec
+Semantic: 29/49844, Accuracy: 0.06%
+Accuracy for Model - german_w2v_cbow_hs_1_w_10_v_500_i_5_10_april_18.vec
+Semantic: 2/49883, Accuracy: 0.00%
+Accuracy for Model - german_w2v_cbow_with_t8corpus_hs_1_w_10_v_500_i_5_05_april_18.vec
+Semantic: 28/49961, Accuracy: 0.06%
