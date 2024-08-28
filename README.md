@@ -1,4 +1,3 @@
-## Script Details
 
 # Word Embedding Models
 
@@ -35,7 +34,7 @@ This script trains a Word2Vec model with the following predefined parameters. Yo
 - `iter=100`
 
 #### 🖥️ Command for Linux
-### any_w2v_model_training.py create a word embedding model
+##### any_w2v_model_training.py create a word embedding model
 ```bash
 python3 any_w2v_model_training.py <path_for_data_corpus> <output_file_name>
 ```
@@ -48,7 +47,7 @@ Vocabulary File: output_file_name.vocab - Contains the vocabulary of the model.
 
 #### 🖥️ Command for Linux
 
-### models_accuracy.py
+##### models_accuracy.py
 This script evaluates the accuracy of different word embedding models (Word2Vec, GloVe, FastText).
 
 ```bash
@@ -60,7 +59,7 @@ Prints out the semantic and syntactic accuracy of the provided models.
 
 #### 🖥️ Command for Linux
 
-### closure_words_from_model.py
+##### closure_words_from_model.py
 This script takes an input words file and generates closure words based on the provided word embedding file and vocabulary file.
 ```bash
 python3 closure_words_from_model.py --vectors_file <'word embedding file'> --vocab_file <'vocabulary file of model'> --input_file <'evaluation file'>
