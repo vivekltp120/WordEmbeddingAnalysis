@@ -46,22 +46,22 @@ Vocabulary File: output_file_name.vocab - Contains the vocabulary of the model.
 
 
 
+#### 🖥️ Command for Linux
 
 models_accuracy.py
 This script evaluates the accuracy of different word embedding models (Word2Vec, GloVe, FastText).
 
-```bash
 python3 models_accuracy.py --eval <'path to evaluation file'> --w2v <'path to w2v model'> --glove <'path to glove model'> --fasttext <'path to fasttext model'>
 
 Output
 Prints out the semantic and syntactic accuracy of the provided models.
 
 
+#### 🖥️ Command for Linux
 
 closure_words_from_model.py
 This script takes an input words file and generates closure words based on the provided word embedding file and vocabulary file.
 
-```bash
 python3 closure_words_from_model.py --vectors_file <'word embedding file'> --vocab_file <'vocabulary file of model'> --input_file <'evaluation file'>
 Output
 Closure Words File: Contains the closure words for the given words from the input file.
