@@ -34,7 +34,8 @@ This script trains a Word2Vec model with the following predefined parameters. Yo
 - `iter=100`
 
 #### 🖥️ Command for Linux
-##### any_w2v_model_training.py create a word embedding model
+##### any_w2v_model_training.py 
+create a word embedding model
 ```bash
 python3 any_w2v_model_training.py <path_for_data_corpus> <output_file_name>
 ```
